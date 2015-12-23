@@ -1,5 +1,9 @@
 package java_lab1;
 
+
+/**
+ * 第二次修改
+ */
 import java.util.Scanner;
 
 public class Lab1_2 {
