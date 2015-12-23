@@ -8,6 +8,7 @@ import java.util.Scanner;
  * 梁焱烽 2013213463
  * Java programming Fall 2015-2016
  * Lab 1
+ * 第一次代码修改
  */
 public class Lab1_1 {
 
