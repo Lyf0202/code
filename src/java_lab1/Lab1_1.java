@@ -9,6 +9,7 @@ import java.util.Scanner;
  * Java programming Fall 2015-2016
  * Lab 1
  * 第一次代码修改
+ * 又一次修改
  */
 public class Lab1_1 {
 
